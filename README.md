@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🔗 <b>Live app:</b> <i>add your deployed Streamlit URL here once published</i>
+  🔗 <b>Live app:</b> <a href="https://bensoncyril123-diabetes-dashboard-dashboardapp-i5lrtb.streamlit.app/">bensoncyril123-diabetes-dashboard-dashboardapp-i5lrtb.streamlit.app</a>
 </p>
 
 ---
